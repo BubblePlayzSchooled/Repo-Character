@@ -3,8 +3,28 @@
 
 Made in AutoDesk Inventor 2025
 
-## Refrence
+## End Result
 
-![Front](Tgj0AJV.png)
+### Assembled
 
-![Back](hVOw2da.png)
+![Assembled](Pictures/main.png)
+
+### Body
+
+![Body](Pictures/body.png)
+
+### Arm
+
+![Arm](Pictures/arm.png)
+
+### Neck
+
+![Neck](Pictures/neck.png)
+
+### Leg
+
+![Leg](Pictures/leg.png)
+
+### Head
+
+![Head](Pictures/head.png)
